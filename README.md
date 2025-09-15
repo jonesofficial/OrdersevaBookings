@@ -35,12 +35,9 @@ Orderseva Bookings is a React-based user interface for searching locations and b
 1. Install dependencies:
 npm install
 
-text
 
 2. Run the dev server:
 npm run dev
-
-text
 
 3. Open `http://localhost:3000` in your browser.
 
@@ -67,4 +64,4 @@ This project is open-source and free to use.
 
 ---
 
-For questions or help, please contact [Your Contact Info or GitHub link].
+For questions or help, please contact.
